@@ -1,5 +1,5 @@
 # Site
-title:              Moon
+title:              mustafaogdur
 bio:                'Minimal, one column jekyll theme.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
@@ -38,9 +38,9 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            https://twitter.com/MustafaOgdur
+facebook:           https://www.facebook.com/mustafa.ogdur44
+github-url:         https://github.com/mustafaogdur
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
