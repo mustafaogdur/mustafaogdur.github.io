@@ -9,16 +9,7 @@ comments: false
 <center><a href="http://mustafaogdur.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
-* Hi! my name is masasdasdasd
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+
 
 ## Previewş
 
